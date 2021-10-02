@@ -1,6 +1,15 @@
 # blog_ai
 
 ## Installation
+### Create venv (optional)
+```
+py -m venv project-name
+```
+### Install django
+```
+py -m pip install Django
+```
+### Install packages
 ```
 pip install djangorestframework
 ```

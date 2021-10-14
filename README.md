@@ -1,5 +1,5 @@
 # blog_ai
-
+This is a machine learning project for blog application that needs to personalize newsfeed.
 ## Installation
 ### Create venv (optional)
 ```
@@ -10,19 +10,6 @@ py -m venv project-name
 py -m pip install Django
 ```
 ### Install packages
-```
-pip install djangorestframework
-```
-
-```
-pip install markdown
-```
-
-```
-pip install django-filter
-```
-
-or install from requirements.txt
 
 ```
 pip install -r requirements.txt

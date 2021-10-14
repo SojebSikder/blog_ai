@@ -5,7 +5,6 @@ from django.http.response import JsonResponse
 import pandas as pd
 from django.shortcuts import render
 from django.http import HttpResponse
-from django.conf.urls.static import static
 
 
 def index(request):
